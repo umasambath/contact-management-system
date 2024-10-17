@@ -26,7 +26,7 @@ The frontend service supports the following features:
 
 ### Prerequisites
 - Node.js installed on your machine
-- Environment variables set for your backend connection URL (only for local connection).
+- Environment variables set for your backend connection URL (only for local connection).`REACT_APP_CONNECTION_URL`
 
 ### Running the Frontend Application Locally
 To start the frontend application in your local environment, use the following command:
