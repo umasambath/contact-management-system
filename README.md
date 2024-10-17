@@ -58,3 +58,9 @@ To deploy the system, follow these steps:
       npm install
       npx cdk deploy
       ```
+
+## Video Demonstration
+
+You can view a video demonstration of the system architecture, frontend, backend, and infrastructure code:
+
+[Watch the Video](https://www.loom.com/share/98fb824733d5494ab7c67082ced1a213?sid=ef31496e-266a-4da7-bcc7-e2c300a34349)
