@@ -38,9 +38,6 @@ The backend service supports the following features:
 
 ### API Endpoints
 
-You can define your API endpoints in the documentation, detailing the available routes, methods, and expected request/response formats.
-Example API Endpoints
-
     GET /contacts: Retrieve the list of contacts.
     POST /contacts: Create a new contact.
     DELETE /contacts/:uId: Delete a contact by uId.
@@ -51,9 +48,9 @@ To start the backend service in your local environment, use the following comman
 
 ```bash
 node ./local.js
-
-
+```
 ### Running Unit & Integration Tests Locally
 
 ```bash
 npm test
+```
